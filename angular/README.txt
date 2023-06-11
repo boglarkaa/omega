@@ -1,1 +1,0 @@
-Aici vine partea de Angular a aplicatiei.
